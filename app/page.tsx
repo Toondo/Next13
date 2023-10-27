@@ -1,7 +1,7 @@
 import AcmeLogo from "@/app/ui/acme-logo";
 import styles from "./ui/home.module.css";
 import Link from "next/link";
-import Image from "next/Image";
+import Image from "next/image";
 import { lusitana } from "./ui/fonts";
 export default function Page() {
   return (
